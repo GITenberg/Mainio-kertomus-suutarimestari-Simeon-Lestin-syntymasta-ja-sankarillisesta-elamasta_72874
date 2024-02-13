@@ -1,0 +1,30 @@
+_repo: Mainio-kertomus-suutarimestari-Simeon-Lestin-syntymasta-ja-sankarillisesta-elamasta_72874
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kojo, Viljo
+    alias: Kojo, Viljo Johannes
+    birthdate: 1891
+    deathdate: 1966
+    gutenberg_agent_id: '55474'
+    url: http://www.gutenberg.org/2009/agents/55474
+    wikipedia: https://fi.wikipedia.org/wiki/Viljo_Kojo
+description: ''
+gutenberg_issued: '2024-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72874'
+language: fi
+pgterms:marc905: 20231113130046kojo
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bOtava, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mainio kertomus suutarimestari Simeon Lestin syntymästä ja sankarillisesta
+  elämästä
+url: http://www.gutenberg.org/ebooks/72874
