@@ -1,5 +1,8 @@
 _repo: Mainio-kertomus-suutarimestari-Simeon-Lestin-syntymasta-ja-sankarillisesta-elamasta_72874
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kojo, Viljo
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55474
     wikipedia: https://fi.wikipedia.org/wiki/Viljo_Kojo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72874#Mainio-kertomus-suutarimestari-Simeon-Lestin-syntymasta-ja-sankarillisesta-elamasta
 gutenberg_issued: '2024-02-04'
 gutenberg_type: Text
 identifiers:
